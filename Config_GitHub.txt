@@ -1,0 +1,25 @@
+Global setup:
+ Set up git
+  git config --global user.name "Evaldo de Oliveira"
+  git config --global user.email evaldo.oliveira@gmail.com
+        
+ Next steps:
+  mkdir LingProg_SCE
+  cd LingProg_SCE
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:evaldo/LingProg_SCE.git
+  git push -u origin master
+      
+ Existing Git Repo?
+  cd existing_git_repo
+  git remote add origin git@github.com:evaldo/LingProg_SCE.git
+  git push -u origin master
+      
+ Importing a Subversion Repo?
+  Click here
+      
+ When you're done:
+  Continue

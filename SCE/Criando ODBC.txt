@@ -1,0 +1,15 @@
+Iniciar / Painel de controle / Ferramentas Administrativas / Fontes dados ODBC
+
+Aparecerá a tela administrador:
+Fontes / guias usuário / adicionar
+
+Criar fontes de dados  selecione:
+Oracle in XE  concluida
+
+Data Source Name =  "nome de origem"
+Description
+TNS Service name  = XE
+
+User name = system
+Password= 1234        
+
